@@ -4,3 +4,6 @@ They use robo-advisers, which asks the users a series of questions to determine 
 
 What Betterment has done is cutting the financial advisor, and instead use robot with advanced algorithms to interact with the users and perform the investments. 
 
+Strengh: Financial education, does the investing for you. Low investment fees. 
+Weaknesses: Algorithms arent perfect, limited investing options. 
+
