@@ -1,4 +1,4 @@
-# FinTech Case Study - Betterment
+# FinTech Case Study - Betterment LLC
 
 ## Description
 
