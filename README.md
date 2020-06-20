@@ -8,5 +8,4 @@ Strengh: Financial education, does the investing for you. Low investment fees.
 Weaknesses: Algorithms arent perfect, limited investing options. 
 
 Prognosis: Keep on improving their algorithms to maximize returns and retain customer loyalty. 
-They are going to have to keep on lowering the investment fees to stay competitive with other platform that offer similar services for free. 
-
+They are going to have to keep on lowering the investment fees to stay competitive with other platform that offer similar services for free. Make is easier for entrants such as an entire family group, rather than individual-based accounts.
