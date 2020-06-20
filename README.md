@@ -1,5 +1,7 @@
 # FinTech Case Study - Betterment LLC
 
+***
+
 ## Description
 
 Case Study to describe Betterment in the Robo-advising sector
@@ -13,11 +15,13 @@ They use robo-advisers, which asks the users a series of questions to determine 
 What Betterment has done is cut out the in-person financial advisor experience, and instead use automated robo-advisors with advanced algorithms to interact with the users and perform the investments. 
 
 Strengths: A lack of financial education of an individual can be overcome with their robo-advisor platform, and does the investing for you. Low investment fees. 
+
 Weaknesses: Algorithms arent perfect, limited investing options. 
 
 Prognosis: Keep on improving their algorithms to maximize returns and retain customer loyalty. 
 They are going to have to keep on lowering the investment fees to stay competitive with other platform that offer similar services for free. Make is easier for entrants such as an entire family group, rather than individual-based accounts.
 
+***
 
 ### Contributors
 
