@@ -8,7 +8,7 @@ Case Study to describe Betterment in the Robo-advising sector
 
 ### Betterment
 
-Betterment is an online investment company based in New York City, founded in 2008. The company mainly offers ETFs and Bonds as investment opportunities. Acorns and wealthfront are their main competitors.
+Betterment is an online investment company based in New York City, founded in 2008. The company mainly offers ETFs and Bonds as investment opportunities. Acorns, M1 Finance, and Wealthfront are their main competitors.
 
 They use robo-advisers, which asks the users a series of questions to determine their risk tolerance. Using robo advisers also allows them to charge a lot less for investment fees. 
 
