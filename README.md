@@ -2,7 +2,7 @@
 
 ## Description
 
-Case Study to decsribe Betterment in the Robo-advising sector
+Case Study to describe Betterment in the Robo-advising sector
 
 ### Betterment
 
