@@ -7,3 +7,6 @@ What Betterment has done is cutting the financial advisor, and instead use robot
 Strengh: Financial education, does the investing for you. Low investment fees. 
 Weaknesses: Algorithms arent perfect, limited investing options. 
 
+Prognosis: Keep on improving their algorithms to maximize returns and retain customer loyalty. 
+They are going to have to keep on lowering the investment fees to stay competitive with other platform that offer similar services for free. 
+
