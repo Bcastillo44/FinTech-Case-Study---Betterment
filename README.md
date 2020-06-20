@@ -2,7 +2,7 @@ Betterment is an online investment company based in New York City, founded in 20
 
 They use robo-advisers, which asks the users a series of questions to determine their risk tolerance. Using robo advisers also allows them to charge a lot less for investment fees. 
 
-What Betterment has done is cutting the financial advisor, and instead use robot with advanced algorithms to interact with the users and perform the investments. 
+What Betterment has done is cut out the in-person financial advisor experience, and instead use automated robo-advisors with advanced algorithms to interact with the users and perform the investments. 
 
 Strengh: Financial education, does the investing for you. Low investment fees. 
 Weaknesses: Algorithms arent perfect, limited investing options. 
